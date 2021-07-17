@@ -1,3 +1,3 @@
 # Data-structures-project
 
-An large application of stack,queue etc. data structures.
+A game-like program that is an implementation of stack,queue etc. data structures.
